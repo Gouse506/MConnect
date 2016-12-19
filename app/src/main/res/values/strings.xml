@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MConnect</string>
+
+    <string name="text_tryAgain">TRY AGAIN</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_forgot_pasword">Forgot Password</string>
+    <string name="title_activity_update_profile">Update Profile</string>
+    <string name="title_activity_datail_imge_view">Datail ImgeView</string>
+    <string name="title_activity_site_detail">Site Detail</string>
+    <string name="title_activity_location_detail">Location Detail</string>
+    <string name="title_activity_feed_back">FeedBack</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
